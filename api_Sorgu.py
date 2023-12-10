@@ -1,3 +1,4 @@
+#ekstradan bir de görseli tarayıcıda açacak bir kod ekledim
 import webbrowser
 import requests
 import json
